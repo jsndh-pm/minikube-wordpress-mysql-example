@@ -1,0 +1,1 @@
+# minikube-wordpress-mysql-example
